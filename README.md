@@ -1,0 +1,2 @@
+# chinna-project
+allow
